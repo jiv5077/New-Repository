@@ -1,7 +1,7 @@
 # New-Repository
 Create and Personalize a GitHub Repository 12_21
 ---
-Questiuons about ME: 
+Questions about ME: 
 
 Who are you? What is your background?
 Josue Vega and my background is in mortgage banking
